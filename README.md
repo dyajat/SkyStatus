@@ -1,5 +1,5 @@
 <!-- TOC -->
-* [Weather App](#weather-app)
+* [Sky Status](#sky-status)
   * [Project Structure](#project-structure)
   * [Image](#image)
   * [Features](#features)
@@ -8,7 +8,7 @@
   * [Usage](#usage)
   * [License](#license)
 <!-- TOC -->
-# Weather App
+# Sky Status
 
 A simple weather application that fetches and displays weather data using the WeatherAPI and FastAPI.
 
